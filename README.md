@@ -1,5 +1,3 @@
-# LSTM_Multivariate_Weatherforcasting
-
 # LSTM 기반 기상 예측 (단변량 · 다변량 시계열)
 
 TensorFlow/Keras의 **LSTM(Long Short-Term Memory)** 모델을 사용해 **기온을 예측**하는 시계열 프로젝트입니다.  
